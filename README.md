@@ -1,0 +1,2 @@
+# Utorok-isc
+Ukazka GIT
